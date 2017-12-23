@@ -13,5 +13,5 @@ Template
 
 Original image tracked with red dots
 
-<img src="images/tracked_As.png" width="60%">
+<img src="images/tracked_As.png" width="50%">
 

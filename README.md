@@ -5,7 +5,7 @@ Image pyramids are useful whenever we want to analyze an image at different scal
 ### Using a Gaussian Image Pyramid, I tracked all the "A"s in an image.
 Original image
 
-<img src="images/letters.png" width="50%">
+<img src="images/letters.png" width="40%">
 
 Template
 
@@ -13,5 +13,5 @@ Template
 
 Original image tracked with red dots
 
-<img src="images/tracked_As.png" width="70%">
+<img src="images/tracked_As.png" width="60%">
 
